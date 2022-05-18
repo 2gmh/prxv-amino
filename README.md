@@ -1,3 +1,3 @@
-Bot de Amino simple usando Python
+It's a simple bot based in ed-amino.
 
 pip -r requeriments.txt
